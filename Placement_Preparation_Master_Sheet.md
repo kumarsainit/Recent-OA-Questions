@@ -8,27 +8,6 @@
 - **Years Covered:** 2023, 2024, 2025, 2026
 - **Target Placement Season:** 2025–2026 CDC & Campus Hiring
 
-### Scanned Source Folders & Files
-
-1. **`OneDrive_1_7-24-2024/Placement`** (56 company folders including Amazon, Google, Microsoft, Adobe, BNY Mellon, DataBricks, Flipkart, Media.net, Qualcomm, Samsung, Uber, etc.)
-2. **`OneDrive_1_7-24-2024/2023_OA_Question`** (23 company folders of 2023 assessment sets)
-3. **`OneDrive_1_7-24-2024/PLACEMENT 23`** (15 company folders from 2023 on-campus season)
-4. **`OA-2024`** (34 comprehensive assessment PDFs + 12 company subdirectories from 2024 season)
-5. **`drive-download-20260904T140427Z-1-001`** (2025 OA PDFs: Oracle, AMD, Texas, Tower Research, Salesforce, Google, Razorpay, Visa, IBM, and G2 collection)
-6. **`drive-download-20260904T140501Z-1-001`** (66 company directories: Apple, Atlassian, Deloitte, Deutsche Bank, Expedia, PayPal, PhonePe, etc.)
-7. **`drive-download-20260904T140605Z-1-001`** (52 company directories: BlackRock, Cisco, DE Shaw, Stripe, Trilogy, Walmart, WEX, etc.)
-8. **`service` & `service/Accenture`** (Accenture OA papers, KLA, Trilogy, Plutus, Wells Fargo, InfoEdge)
-9. **`int-service`** (Tredence, Accenture Japan, Squarepoint Capital, Samsung R&D, Tekion)
-10. **`onlyfans`** (48 curated OA collections including DevRev, ION, Meesho, Reliance, UKG, Warner Bros)
-11. **Root Placement Records & ERP Sheets:** `CDC Placement Preparations 2025-2026.xlsx`, `Placement2026.xlsx`, `AZ Premium Cohort 9.xlsx`, `B10/B11 Live Session Notes.xlsx`, `IIT KGP Companies ERP.xlsx`, `AzNotesFinal.docx`
-
-### Extraction & Quality Control Notes
-
-- **Semantic Deduplication:** Identical questions appearing across multiple companies or years (e.g., *Ship Locks* in UiPath & Throughput, *Reorder Routes* in Microsoft Codility & LeetCode, *Consecutive Hurdles* in PhonePe) have been unified into a single canonical entry while preserving all company and year tags.
-- **Multimodal & OCR Inspection:** Scanned assessment screenshots from CodeSignal, HackerRank, Mettl, HirePro, and Codility were visually inspected and transcribed to preserve exact problem statements, constraints, and test cases.
-- **Optimal Solutions:** Coding problems include optimal Java implementations with step-by-step algorithms, intuitive rationales, and time/space complexity bounds.
-- **Interview Readiness:** Core CS MCQs and theoretical interview questions feature verified correct answers with in-depth technical explanations.
-
 ### Questions Distribution by Company
 
 | Company | Unique Questions | Categories Represented |
