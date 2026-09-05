@@ -98,7 +98,6 @@
 - **Category:** Strings
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_08_AMD_Software.pdf`
 - **Verified Link:** [String Processing with Query Replacements](https://codeforces.com/problemset/problem/1850/F)
 
 #### Question
@@ -180,7 +179,6 @@ public class Solution {
 - **Category:** Math
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_08_AMD_Software.pdf`
 - **Verified Link:** [The Triplets Multiples of K](https://atcoder.jp/contests/abc108/tasks/abc108_c)
 
 #### Question
@@ -253,7 +251,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `ARM/WhatsApp Image 2023-09-26 at 11.10.27 AM.jpeg`
 - **Verified Link:** [Valid Password Arrangements](https://leetcode.com/problems/permutations-ii/)
 
 #### Question
@@ -339,7 +336,6 @@ public class Solution {
 - **Category:** Arrays
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `ARM/WhatsApp Image 2023-09-26 at 11.10.27 AM (1).jpeg`
 - **Verified Link:** [Eliminate Rows with All Negative Ones](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 
 #### Question
@@ -419,7 +415,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `Adobe/Compressing array v2/IMG-20230721-WA0111.jpg`
 - **Verified Link:** [Compressing Array v2](https://leetcode.com/discuss/interview-question/3807211/Adobe-OA)
 
 #### Question
@@ -493,7 +488,6 @@ public class Solution {
 - **Category:** Binary Search
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Adobe-IITG-Intern.pdf`
 - **Verified Link:** [Minimum Delivery Time](https://leetcode.com/problems/minimum-time-to-repair-cars/)
 
 #### Question
@@ -586,7 +580,6 @@ public class Solution {
 - **Category:** Sorting
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `OA-2024/Adobe-IITG-Intern.pdf`
 - **Verified Link:** [Sort Roman Names](https://leetcode.com/problems/roman-to-integer/)
 
 #### Question
@@ -672,7 +665,6 @@ public class Solution {
 - **Category:** Trees
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140501Z-1-001/Adobe /IMG-20240719-WA0005.docx`
 - **Verified Link:** [Minimum Node Weight on Tree Simple Paths](https://leetcode.com/problems/sum-of-subsequence-widths/)
 
 #### Question
@@ -789,7 +781,6 @@ public class Solution {
 - **Category:** Arrays
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `onlyfans/Amazon /Set 2/Amazon_OA.pdf`
 - **Verified Link:** [Amazon Academy Maximum Total Memory Points](https://leetcode.com/discuss/interview-question/4185579/Amazon-OA-2024-or-Maximum-Total-Memory-Points)
 
 #### Question
@@ -863,7 +854,6 @@ public class Solution {
 - **Category:** Binary Search
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `onlyfans/Amazon /Set 2/Amazon_OA.pdf`
 - **Verified Link:** [Minimum Possible Value of Maximum Parcels](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/)
 
 #### Question
@@ -952,7 +942,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/Amazon/Amazon_logs.pdf`
 - **Verified Link:** [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
 
 #### Question
@@ -1038,7 +1027,6 @@ public class Solution {
 - **Category:** Quantitative Aptitude
 - **Difficulty:** Medium
 - **Type:** Aptitude
-- **Source:** `OA-2024/Axtria-24.pdf`
 - **Verified Link:** [Boat and Stream Opposite Directions Journey](https://www.geeksforgeeks.org/speed-time-and-distance-tricks-and-formulas/)
 
 #### Question
@@ -1102,7 +1090,6 @@ public class Solution {
 - **Category:** Backtracking
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `onlyfans/Browserstack/OA set 1/Browserstack SDET OA.pdf`
 - **Verified Link:** [Wordplay / Max Length of Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 
 #### Question
@@ -1195,7 +1182,6 @@ public class Solution {
 - **Category:** Trees
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Cisco-NITP-OG.pdf`
 - **Verified Link:** [Get Min Servers / Neural Network Tree](https://codeforces.com/problemset/problem/682/C)
 
 #### Question
@@ -1307,7 +1293,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Cisco-NITP-OG.pdf`
 - **Verified Link:** [Get Minimum Cost / Server Relocation](https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions)
 
 #### Question
@@ -1392,7 +1377,6 @@ public class Solution {
 - **Category:** Computer Networks
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/Cisco-NITP-OG.pdf`
 - **Verified Link:** [OSPF DR and BDR Election Criteria](https://www.cisco.com/c/en/us/support/docs/ip/open-shortest-path-first-ospf/7039-1.html)
 
 #### Question
@@ -1427,7 +1411,6 @@ In an OSPF multi-access network, the router with the highest OSPF Priority is el
 - **Category:** Logical Reasoning
 - **Difficulty:** Easy
 - **Type:** Aptitude
-- **Source:** `OA-2024/Cisco-NITP-OG.pdf`
 - **Verified Link:** [Monty Hall 3-Door Puzzle](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
 #### Question
@@ -1451,7 +1434,6 @@ Standard Monty Hall problem
 - **Category:** Trees
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `onlyfans/Dp world /OA set 1/OA set 1.docx`
 - **Verified Link:** [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 
 #### Question
@@ -1542,7 +1524,6 @@ public class Solution {
 - **Category:** Binary Search
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/DataBricks/IIT KGP/5. Count number of times a value occurs in given ranges/question.txt`
 - **Verified Link:** [Count Number of Times a Value Occurs in Given Ranges](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
 
 #### Question
@@ -1649,7 +1630,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `onlyfans/De shaw /Untitled document.docx`
 - **Verified Link:** [Subsequences Equal to AZM with Insertion](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)
 
 #### Question
@@ -1741,7 +1721,6 @@ public class Solution {
 - **Category:** Trees
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OA-2024/Deutsche-TG.pdf`
 - **Verified Link:** [K-XOR Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/)
 
 #### Question
@@ -1824,7 +1803,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Deutsche-TG.pdf`
 - **Verified Link:** [Meeting Room Minimum Unmet People](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 
 #### Question
@@ -1930,7 +1908,6 @@ public class Solution {
 - **Category:** Combinatorics
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Deutsche-IITG-Intern.pdf`
 - **Verified Link:** [Yet Another Counting Problem / Vowel Sequences](https://leetcode.com/problems/count-vowel-substrings-of-a-string/)
 
 #### Question
@@ -2040,7 +2017,6 @@ public class Solution {
 - **Category:** Design
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `onlyfans/Dev Rev/OA Set 1/DevRev-OA.pdf`
 - **Verified Link:** [LFU Cache Implementation](https://leetcode.com/problems/lfu-cache/)
 
 #### Question
@@ -2149,7 +2125,6 @@ public class LFUCache {
 - **Category:** Dynamic Programming
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `onlyfans/Dev Rev/OA Set 1/DevRev-OA.pdf`
 - **Verified Link:** [Crayon Removal Scoring Game](https://leetcode.com/problems/remove-boxes/)
 
 #### Question
@@ -2235,7 +2210,6 @@ public class Solution {
 - **Category:** Sliding Window
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `onlyfans/Dev Rev/OA Set 1/DevRev-OA.pdf`
 - **Verified Link:** [Dominant Subarrays](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
 
 #### Question
@@ -2326,7 +2300,6 @@ public class Solution {
 - **Category:** Trees
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140501Z-1-001/edelwiess/Screenshot (139).docx`
 - **Verified Link:** [Prime Query on Subtrees](https://www.hackerrank.com/challenges/tree-pruning/problem)
 
 #### Question
@@ -2433,7 +2406,6 @@ public class Solution {
 - **Category:** Bit Manipulation
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `OA-2024/flipkart-11-8.pdf`
 - **Verified Link:** [Bits Flipper](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 
 #### Question
@@ -2494,7 +2466,6 @@ public class Solution {
 - **Category:** Sorting
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/flipkart-11-8.pdf`
 - **Verified Link:** [The Best Subsequence](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 
 #### Question
@@ -2568,7 +2539,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_09_Google.pdf`
 - **Verified Link:** [Longest Valid Jumping Path in Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
 #### Question
@@ -2671,7 +2641,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/Google/2 Que_ 1) More ones 2) Minimum Cost Path/Google VIT.pdf`
 - **Verified Link:** [More Ones Substrings](https://leetcode.com/problems/number-of-subarrays-with-more-ones-than-zeros/)
 
 #### Question
@@ -2763,7 +2732,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/Google/2 Que_ 1) More ones 2) Minimum Cost Path/Google VIT.pdf`
 - **Verified Link:** [Minimum Cost Path in Matrix](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 
 #### Question
@@ -2866,7 +2834,6 @@ public class Solution {
 - **Category:** Bit Manipulation
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OA-2024/Graviton-u.pdf`
 - **Verified Link:** [Beauty of an Array](https://codeforces.com/problemset/problem/1879/D)
 
 #### Question
@@ -2965,7 +2932,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_16_IBM.pdf`
 - **Verified Link:** [Minimum Special Subsequences](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)
 
 #### Question
@@ -3045,7 +3011,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_16_IBM.pdf`
 - **Verified Link:** [Network Recovery](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
 #### Question
@@ -3139,7 +3104,6 @@ public class Solution {
 - **Category:** Sliding Window
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_16_IBM.pdf`
 - **Verified Link:** [Detect High Load Windows](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 
 #### Question
@@ -3224,7 +3188,6 @@ public class Solution {
 - **Category:** Computer Networks
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/IBM-BITSG1.pdf`
 - **Verified Link:** [TCP Connection Establishment and Termination](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
 #### Question
@@ -3263,7 +3226,6 @@ TCP is strictly a connection-oriented point-to-point protocol; it does NOT suppo
 - **Category:** Computer Networks
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/IBM-BITSG1.pdf`
 - **Verified Link:** [Subnet Mask IP Grouping](https://www.geeksforgeeks.org/subnetting-in-computer-network/)
 
 #### Question
@@ -3304,7 +3266,6 @@ Subnet mask 255.255.255.240 has block size 256 - 240 = 16. The subnet boundaries
 - **Category:** Graph
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `CDC Placement Preparations 2025-2026.xlsx`
 - **Verified Link:** [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/)
 
 #### Question
@@ -3414,7 +3375,6 @@ public class Solution {
 - **Category:** Hashing
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `onlyfans/kkr & co/set 1/Untitled document.docx`
 - **Verified Link:** [Equal Partition Without Duplicates](https://leetcode.com/problems/divide-array-into-equal-pairs/)
 
 #### Question
@@ -3513,7 +3473,6 @@ public class Solution {
 - **Category:** Arrays
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `service/KLA Software IITM.pdf`
 - **Verified Link:** [The Event / Mall Gate Arrivals](https://practice.geeksforgeeks.org/problems/count-the-elements1529/1)
 
 #### Question
@@ -3582,7 +3541,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/Media.net/question.txt`
 - **Verified Link:** [Max Subset Sum Equal to X with Queue Updates](https://codeforces.com/blog/entry/83441)
 
 #### Question
@@ -3698,7 +3656,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Words Differing in One Position](https://leetcode.com/discuss/interview-question/1521473/microsoft-india-fte-engage-codility-oa-october-2021)
 
 #### Question
@@ -3824,7 +3781,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Optimal Path Minimum Maximum Value](https://leetcode.com/problems/grid-game/)
 
 #### Question
@@ -3908,7 +3864,6 @@ public class Solution {
 - **Category:** Sliding Window
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Shortest Compressed String after Removal](https://leetcode.com/problems/string-compression-ii/)
 
 #### Question
@@ -4006,7 +3961,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Alphabetically Largest String Transformation](https://leetcode.com/discuss/interview-question/4549306/Microsoft-OA)
 
 #### Question
@@ -4087,7 +4041,6 @@ public class Solution {
 - **Category:** Bit Manipulation
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Largest Sum without Common Digits](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 
 #### Question
@@ -4180,7 +4133,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Minimum Swaps to Minimize Difference](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)
 
 #### Question
@@ -4288,7 +4240,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/)
 
 #### Question
@@ -4379,7 +4330,6 @@ public class Solution {
 - **Category:** Trees
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-24.pdf`
 - **Verified Link:** [Expand Binary Tree Leaves](https://leetcode.com/discuss/interview-question/1489255/microsoft-online-assessment)
 
 #### Question
@@ -4455,7 +4405,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-23.pdf`
 - **Verified Link:** [Reorder Routes to City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
 
 #### Question
@@ -4545,7 +4494,6 @@ public class Solution {
 - **Category:** Math
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-TG.pdf`
 - **Verified Link:** [Form Largest Square using 1x1 and 2x2 Tiles](https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions)
 
 #### Question
@@ -4629,7 +4577,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Microsoft-23.pdf`
 - **Verified Link:** [Two-Color Tiles Domino Sequence](https://leetcode.com/discuss/interview-question/1521473/microsoft-india-fte-engage-codility-oa-october-2021)
 
 #### Question
@@ -4712,7 +4659,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/Microsoft/Microsoft/Intern/Microsoft_questions.pdf`
 - **Verified Link:** [Install Carbon Filters](https://leetcode.com/discuss/interview-question/1521473/microsoft-india-fte-engage-codility-oa-october-2021)
 
 #### Question
@@ -4794,7 +4740,6 @@ public class Solution {
 - **Category:** Math
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/Microsoft/Microsoft/Intern/Microsoft_questions.pdf`
 - **Verified Link:** [Smallest Integer without Consecutive Duplicate Digits](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 
 #### Question
@@ -4881,7 +4826,6 @@ public class Solution {
 - **Category:** Hashing
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/Microsoft/Microsoft/NIT Trichy/makeStringPalindrome.txt`
 - **Verified Link:** [Make String Palindrome with Min Changes](https://leetcode.com/problems/palindrome-permutation/)
 
 #### Question
@@ -4949,7 +4893,6 @@ public class Solution {
 - **Category:** SQL
 - **Difficulty:** Medium
 - **Type:** SQL
-- **Source:** `OA-2024/morgan-stanley-IITK.pdf`
 - **Verified Link:** [SQL: Calendar Application Events Report](https://leetcode.com/problems/group-sold-products-by-the-date/)
 
 #### Question
@@ -5024,7 +4967,6 @@ LIMIT 5;
 - **Category:** Dynamic Programming
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `int-service/Pace stock_.docx`
 - **Verified Link:** [Count Arrays with Difference At Most 1](https://codeforces.com/problemset/problem/1288/C)
 
 #### Question
@@ -5123,7 +5065,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OA-2024/Phonepay-NIT-NGPR.pdf`
 - **Verified Link:** [Olympic Hurdles / Max Score with At Most K Consecutive](https://leetcode.com/problems/constrained-subsequence-sum/)
 
 #### Question
@@ -5214,7 +5155,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OA-2024/Phonepay-NIT-NGPR.pdf`
 - **Verified Link:** [Help Mike Get Rich](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/)
 
 #### Question
@@ -5321,7 +5261,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Phonepay-NIT-NGPR.pdf`
 - **Verified Link:** [Dora The Explorer / Vacation with Single Mode Switch](https://leetcode.com/problems/network-delay-time/)
 
 #### Question
@@ -5424,7 +5363,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `CDC Placement Preparations 2025-2026.xlsx`
 - **Verified Link:** [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)
 
 #### Question
@@ -5530,7 +5468,6 @@ public class Solution {
 - **Category:** Quantitative Aptitude
 - **Difficulty:** Medium
 - **Type:** Aptitude
-- **Source:** `service/Plutus and Ola.pdf`
 - **Verified Link:** [Smallest N for 100 Trailing Zeros in N!](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
 #### Question
@@ -5609,7 +5546,6 @@ public class Solution {
 - **Category:** Quantitative Aptitude
 - **Difficulty:** Hard
 - **Type:** Aptitude
-- **Source:** `service/Plutus and Ola.pdf`
 - **Verified Link:** [Coin Toss Game Expected Value](https://en.wikipedia.org/wiki/Gambler%27s_ruin)
 
 #### Question
@@ -5662,7 +5598,6 @@ Double down when your win probability is maximized (state +1 where win rate is 7
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `service/Plutus and Ola.pdf`
 - **Verified Link:** [Minimum Cost to Travel with Fuel Purchase and Storage](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
 
 #### Question
@@ -5736,7 +5671,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `onlyfans/protium finance/Untitled document.docx`
 - **Verified Link:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 #### Question
@@ -5806,7 +5740,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Quicksell-IITBHU.pdf`
 - **Verified Link:** [Airport Runways / Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
 
 #### Question
@@ -5888,7 +5821,6 @@ public class Solution {
 - **Category:** Binary Search
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Quicksell-IITBHU.pdf`
 - **Verified Link:** [Allocate Minimum Number of Pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
 
 #### Question
@@ -5983,7 +5915,6 @@ public class Solution {
 - **Category:** SQL
 - **Difficulty:** Easy
 - **Type:** SQL
-- **Source:** `OA-2024/Quicksell-IITBHU.pdf`
 - **Verified Link:** [SQL: Unique Customer Spending Union](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 
 #### Question
@@ -6051,7 +5982,6 @@ ORDER BY CustomerID;
 - **Category:** SQL
 - **Difficulty:** Medium
 - **Type:** SQL
-- **Source:** `OA-2024/Quicksell-IITBHU.pdf`
 - **Verified Link:** [SQL: Highest Paid Employee per Department](https://leetcode.com/problems/department-highest-salary/)
 
 #### Question
@@ -6127,7 +6057,6 @@ WHERE rnk = 1;
 - **Category:** Backtracking
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_10_Razorpqy.pdf`
 - **Verified Link:** [Special Numbers (Prime Digits on Prime Indices)](https://leetcode.com/problems/prime-arrangements/)
 
 #### Question
@@ -6210,7 +6139,6 @@ public class Solution {
 - **Category:** Trees
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `CDC Placement Preparations 2025-2026.xlsx`
 - **Verified Link:** [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
 
 #### Question
@@ -6297,7 +6225,6 @@ public class Solution {
 - **Category:** Bit Manipulation
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_08_salesforce.pdf`
 - **Verified Link:** [Customer Interaction Log Update](https://leetcode.com/discuss/interview-question/5753068/Salesforce-OA-2025)
 
 #### Question
@@ -6384,7 +6311,6 @@ public class Solution {
 - **Category:** Trees
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_08_salesforce.pdf`
 - **Verified Link:** [Key Salesforce Teams](https://leetcode.com/problems/tree-diameter/)
 
 #### Question
@@ -6500,7 +6426,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Samsung-SemiConductor-BITSH.pdf`
 - **Verified Link:** [Maximum Strawberries](https://leetcode.com/problems/house-robber/)
 
 #### Question
@@ -6585,7 +6510,6 @@ public class Solution {
 - **Category:** Operating Systems
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/Samsung-SemiConductor-BITSH.pdf`
 - **Verified Link:** [5-Stage RISC Pipeline Sequence](https://en.wikipedia.org/wiki/Classic_RISC_pipeline)
 
 #### Question
@@ -6620,7 +6544,6 @@ The standard 5-stage classic RISC pipeline consists of IF (Instruction Fetch), I
 - **Category:** Trees
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/Samsung-SemiConductor-BITSH.pdf`
 - **Verified Link:** [Distance Between Two Nodes Using LCA](https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/)
 
 #### Question
@@ -6655,7 +6578,6 @@ The path from u to v passes through their LCA. The distance is (dist(u) - dist(L
 - **Category:** Operating Systems
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/Samsung-SemiConductor-BITSH.pdf`
 - **Verified Link:** [Fork Loop Child Process Count](https://www.geeksforgeeks.org/fork-system-call/)
 
 #### Question
@@ -6697,7 +6619,6 @@ The loop runs for i = 0..9. The condition (i % 2 == 0) is true for 5 values: i =
 - **Category:** Operating Systems
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/Samsung-SemiConductor-BITSH.pdf`
 - **Verified Link:** [CPU Scheduling Starvation](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
 
 #### Question
@@ -6737,7 +6658,6 @@ All three statements are true: SRTF continuously favors short jobs causing long 
 - **Category:** Dynamic Programming
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `CDC Placement Preparations 2025-2026.xlsx`
 - **Verified Link:** [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)
 
 #### Question
@@ -6823,7 +6743,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_08_Texas.pdf`
 - **Verified Link:** [Maximize Carrots Collected in Grid](https://leetcode.com/problems/minimum-path-sum/)
 
 #### Question
@@ -6899,7 +6818,6 @@ public class Solution {
 - **Category:** Math
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_08_30 Throughput.pdf; OA-2024/UIPath-IITG-Intern.pdf`
 - **Verified Link:** [Ship Locks](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 
 #### Question
@@ -6995,7 +6913,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_08_30 Throughput.pdf`
 - **Verified Link:** [Chris Navigates a Maze](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 
 #### Question
@@ -7140,7 +7057,6 @@ public class Solution {
 - **Category:** Hashing
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_08_Tower_Res.pdf`
 - **Verified Link:** [Valid Size / MEX After Single Increment](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/)
 
 #### Question
@@ -7238,7 +7154,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `int-service/tredence 25july 2025.pdf`
 - **Verified Link:** [Valid File Path Aggregator](https://leetcode.com/problems/simplify-path/)
 
 #### Question
@@ -7330,7 +7245,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `service/Trilogy OA questions.pdf`
 - **Verified Link:** [Almost Matching Substrings](https://leetcode.com/discuss/interview-question/398023/Trilogy-Online-Assessment)
 
 #### Question
@@ -7417,7 +7331,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `service/Trilogy OA questions.pdf`
 - **Verified Link:** [Mario's Adventure Floating River Crossing](https://codeforces.com/problemset/problem/1256/C)
 
 #### Question
@@ -7519,7 +7432,6 @@ public class Solution {
 - **Category:** Greedy
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `OA-2024/Uber-IITJ.pdf`
 - **Verified Link:** [Alice Eats Sweets](https://leetcode.com/problems/minimum-time-to-complete-trips/)
 
 #### Question
@@ -7591,7 +7503,6 @@ public class Solution {
 - **Category:** Sliding Window
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Uber-IITJ.pdf`
 - **Verified Link:** [API Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
 #### Question
@@ -7694,7 +7605,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `OA-2024/Uber-IITJ.pdf`
 - **Verified Link:** [Grid Room Entry Time](https://leetcode.com/problems/swim-in-rising-water/)
 
 #### Question
@@ -7788,7 +7698,6 @@ public class Solution {
 - **Category:** Graph
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OA-2024/Uber-IITJ.pdf`
 - **Verified Link:** [Bilateral Cab Service / Maximum Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)
 
 #### Question
@@ -7931,7 +7840,6 @@ public class Solution {
 - **Category:** Math
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_08_30 Throughput.pdf; OA-2024/UIPath-IITG-Intern.pdf`
 - **Verified Link:** [Ship Locks](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 
 #### Question
@@ -8029,7 +7937,6 @@ public class Solution {
 - **Category:** Dynamic Programming
 - **Difficulty:** Hard
 - **Type:** Coding
-- **Source:** `OneDrive_1_7-24-2024/Placement/zzz...Unknown/4/question.txt`
 - **Verified Link:** [Frog Jump to Last Point](https://leetcode.com/problems/frog-jump/)
 
 #### Question
@@ -8113,7 +8020,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_12_Visa.pdf`
 - **Verified Link:** [Substrings of Length 3 with at least One Vowel](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
 
 #### Question
@@ -8190,7 +8096,6 @@ public class Solution {
 - **Category:** Stack
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_12_Visa.pdf`
 - **Verified Link:** [Largest Square in Cityline](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 #### Question
@@ -8280,7 +8185,6 @@ public class Solution {
 - **Category:** Queue
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `drive-download-20260904T140427Z-1-001/2025_09_12_Visa.pdf`
 - **Verified Link:** [Molecular Reactor Synthesis Time](https://leetcode.com/discuss/interview-question/5759902/Visa-OA-2025)
 
 #### Question
@@ -8377,7 +8281,6 @@ public class Solution {
 - **Category:** Math
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `OA-2024/walmart-bits-h-24.pdf`
 - **Verified Link:** [Total Divisors of Printer Pages](https://practice.geeksforgeeks.org/problems/count-divisors-of-factorial-of-a-number/1)
 
 #### Question
@@ -8455,7 +8358,6 @@ public class Solution {
 - **Category:** Strings
 - **Difficulty:** Easy
 - **Type:** Coding
-- **Source:** `OA-2024/walmart-bits-h-24.pdf`
 - **Verified Link:** [Robot Alex Speech Processing](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
 #### Question
@@ -8546,7 +8448,6 @@ public class Solution {
 - **Category:** Operating Systems
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/walmart-bits-h-24.pdf`
 - **Verified Link:** [Reentrant Procedures in OS](https://en.wikipedia.org/wiki/Reentrancy_(computing))
 
 #### Question
@@ -8585,7 +8486,6 @@ A function is reentrant if it does not rely on or modify shared/global/static da
 - **Category:** Queue
 - **Difficulty:** Easy
 - **Type:** MCQ
-- **Source:** `OA-2024/walmart-bits-h-24.pdf`
 - **Verified Link:** [Circular Queue Full Condition](https://www.geeksforgeeks.org/introduction-to-circular-queue/)
 
 #### Question
@@ -8626,7 +8526,6 @@ In a circular queue of fixed capacity, the queue is full when advancing the rear
 - **Category:** Graph
 - **Difficulty:** Medium
 - **Type:** Coding
-- **Source:** `CDC Placement Preparations 2025-2026.xlsx`
 - **Verified Link:** [Valid BFS Tree Traversal](https://codeforces.com/problemset/problem/1037/D)
 
 #### Question
